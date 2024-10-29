@@ -1,0 +1,16 @@
+{
+    "name": "pablo/oop",
+    "description": "OOP testing",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Pablo Leão",
+            "email": "151883726+PabloLeaoDev@users.noreply.github.com"
+        }
+    ],
+    "require": {}
+}
